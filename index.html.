@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mon premier site</title>
+  </head>
+  <body>
+    <hl>bienveue sur mon site</hl>
+    <p>voici mon premier site cree avec HTMLet CSS.</p>
+  </body>
+</html>
